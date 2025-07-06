@@ -1,0 +1,510 @@
+{
+  "Tomato Rice": {
+    "ingredients": [
+      "rice",
+      "tomato",
+      "onion",
+      "oil",
+      "salt"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?tomato"
+  },
+  "Masala Aloo": {
+    "ingredients": [
+      "potato",
+      "oil",
+      "salt",
+      "turmeric",
+      "green chili"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?masala"
+  },
+  "Cheese Sandwich": {
+    "ingredients": [
+      "bread",
+      "cheese",
+      "butter"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?cheese"
+  },
+  "Omelette": {
+    "ingredients": [
+      "egg",
+      "onion",
+      "salt",
+      "green chili"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?omelette"
+  },
+  "Veggie Stir Fry": {
+    "ingredients": [
+      "capsicum",
+      "onion",
+      "garlic",
+      "oil"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?veggie"
+  },
+  "Poha": {
+    "ingredients": [
+      "flattened rice",
+      "onion",
+      "green chili",
+      "oil",
+      "salt",
+      "turmeric",
+      "lemon"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?poha"
+  },
+  "Upma": {
+    "ingredients": [
+      "semolina",
+      "mustard seeds",
+      "onion",
+      "green chili",
+      "oil",
+      "salt",
+      "water"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?upma"
+  },
+  "Maggi Masala": {
+    "ingredients": [
+      "maggi noodles",
+      "water",
+      "masala",
+      "oil",
+      "onion",
+      "tomato"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?maggi"
+  },
+  "Egg Bhurji": {
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "green chili",
+      "salt",
+      "oil"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?egg"
+  },
+  "Chilla": {
+    "ingredients": [
+      "besan",
+      "onion",
+      "green chili",
+      "salt",
+      "oil"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?chilla"
+  },
+  "Curd Rice": {
+    "ingredients": [
+      "rice",
+      "curd",
+      "salt",
+      "mustard seeds",
+      "curry leaves"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?curd"
+  },
+  "Dahi Toast": {
+    "ingredients": [
+      "bread",
+      "curd",
+      "mustard seeds",
+      "green chili",
+      "salt"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?dahi"
+  },
+  "Fried Rice": {
+    "ingredients": [
+      "rice",
+      "onion",
+      "capsicum",
+      "soy sauce",
+      "oil",
+      "salt"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?fried"
+  },
+  "Roti Pizza": {
+    "ingredients": [
+      "roti",
+      "cheese",
+      "onion",
+      "tomato",
+      "capsicum",
+      "chili flakes"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?roti"
+  },
+  "Paneer Bhurji": {
+    "ingredients": [
+      "paneer",
+      "onion",
+      "tomato",
+      "salt",
+      "turmeric",
+      "oil"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?paneer"
+  },
+  "Bread Upma": {
+    "ingredients": [
+      "bread",
+      "onion",
+      "tomato",
+      "green chili",
+      "mustard seeds",
+      "oil"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?bread"
+  },
+  "Mayo Sandwich": {
+    "ingredients": [
+      "bread",
+      "mayonnaise",
+      "onion",
+      "capsicum"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?mayo"
+  },
+  "Masala Khichdi": {
+    "ingredients": [
+      "rice",
+      "moong dal",
+      "onion",
+      "tomato",
+      "turmeric",
+      "salt",
+      "ghee"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?masala"
+  },
+  "Tamarind Rice": {
+    "ingredients": [
+      "rice",
+      "tamarind paste",
+      "mustard seeds",
+      "curry leaves",
+      "oil"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?tamarind"
+  },
+  "Egg Curry": {
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "garlic",
+      "oil",
+      "salt",
+      "spices"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?egg"
+  },
+  "Sooji Halwa": {
+    "ingredients": [
+      "semolina",
+      "ghee",
+      "sugar",
+      "water",
+      "cardamom"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?sooji"
+  },
+  "Pulao": {
+    "ingredients": [
+      "rice",
+      "peas",
+      "carrot",
+      "salt",
+      "oil",
+      "garam masala"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?pulao"
+  },
+  "Jeera Rice": {
+    "ingredients": [
+      "rice",
+      "cumin seeds",
+      "ghee",
+      "salt"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?jeera"
+  },
+  "Garlic Bread": {
+    "ingredients": [
+      "bread",
+      "garlic",
+      "butter",
+      "cheese"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?garlic"
+  },
+  "Masala Papad": {
+    "ingredients": [
+      "papad",
+      "onion",
+      "tomato",
+      "chat masala",
+      "lemon juice"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?masala"
+  },
+  "Aloo Paratha": {
+    "ingredients": [
+      "wheat flour",
+      "potato",
+      "salt",
+      "garam masala",
+      "ghee"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?aloo"
+  },
+  "Besan Toast": {
+    "ingredients": [
+      "bread",
+      "besan",
+      "onion",
+      "green chili",
+      "salt"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?besan"
+  },
+  "Vegetable Pulao": {
+    "ingredients": [
+      "rice",
+      "mixed vegetables",
+      "oil",
+      "salt",
+      "cumin seeds"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?vegetable"
+  },
+  "Vegetable Sandwich": {
+    "ingredients": [
+      "bread",
+      "tomato",
+      "onion",
+      "cucumber",
+      "butter"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?vegetable"
+  },
+  "Methi Thepla": {
+    "ingredients": [
+      "wheat flour",
+      "fenugreek leaves",
+      "turmeric",
+      "salt",
+      "curd"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?methi"
+  },
+  "Sabudana Khichdi": {
+    "ingredients": [
+      "sago",
+      "peanuts",
+      "potato",
+      "salt",
+      "cumin seeds",
+      "green chili"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?sabudana"
+  },
+  "Paneer Tikka": {
+    "ingredients": [
+      "paneer",
+      "curd",
+      "spices",
+      "capsicum",
+      "onion"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?paneer"
+  },
+  "Stuffed Capsicum": {
+    "ingredients": [
+      "capsicum",
+      "potato",
+      "spices",
+      "onion",
+      "oil"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?stuffed"
+  },
+  "Dal Fry": {
+    "ingredients": [
+      "toor dal",
+      "onion",
+      "tomato",
+      "garlic",
+      "spices",
+      "ghee"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?dal"
+  },
+  "Chana Chaat": {
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "tomato",
+      "lemon juice",
+      "chat masala"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?chana"
+  },
+  "Rajma": {
+    "ingredients": [
+      "kidney beans",
+      "onion",
+      "tomato",
+      "spices",
+      "oil"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?rajma"
+  },
+  "Vegetable Dalia": {
+    "ingredients": [
+      "dalia",
+      "mixed vegetables",
+      "salt",
+      "oil",
+      "mustard seeds"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?vegetable"
+  },
+  "Bhel Puri": {
+    "ingredients": [
+      "puffed rice",
+      "onion",
+      "tomato",
+      "sev",
+      "chutney"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?bhel"
+  },
+  "Moong Dal Chilla": {
+    "ingredients": [
+      "moong dal",
+      "onion",
+      "green chili",
+      "salt",
+      "oil"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?moong"
+  },
+  "Rava Dosa": {
+    "ingredients": [
+      "semolina",
+      "rice flour",
+      "curd",
+      "onion",
+      "green chili"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?rava"
+  },
+  "Bhindi Masala": {
+    "ingredients": [
+      "okra",
+      "onion",
+      "tomato",
+      "spices",
+      "oil"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?bhindi"
+  },
+  "Baingan Bharta": {
+    "ingredients": [
+      "eggplant",
+      "onion",
+      "tomato",
+      "spices",
+      "oil"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?baingan"
+  },
+  "Cabbage Sabzi": {
+    "ingredients": [
+      "cabbage",
+      "mustard seeds",
+      "salt",
+      "turmeric",
+      "green chili"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?cabbage"
+  },
+  "Sprouts Salad": {
+    "ingredients": [
+      "sprouts",
+      "onion",
+      "tomato",
+      "lemon juice",
+      "chat masala"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?sprouts"
+  },
+  "Methi Puri": {
+    "ingredients": [
+      "wheat flour",
+      "fenugreek leaves",
+      "spices",
+      "oil"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?methi"
+  },
+  "Beetroot Rice": {
+    "ingredients": [
+      "rice",
+      "beetroot",
+      "onion",
+      "mustard seeds",
+      "oil"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?beetroot"
+  },
+  "Lemon Rice": {
+    "ingredients": [
+      "rice",
+      "mustard seeds",
+      "lemon juice",
+      "green chili",
+      "curry leaves"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?lemon"
+  },
+  "Aloo Sandwich": {
+    "ingredients": [
+      "bread",
+      "potato",
+      "spices",
+      "butter"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?aloo"
+  },
+  "Tomato Omelette": {
+    "ingredients": [
+      "besan",
+      "tomato",
+      "onion",
+      "green chili",
+      "salt"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?tomato"
+  },
+  "Corn Chaat": {
+    "ingredients": [
+      "sweet corn",
+      "onion",
+      "tomato",
+      "lemon juice",
+      "chat masala"
+    ],
+    "image": "https://source.unsplash.com/featured/300x200/?corn"
+  }
+}
