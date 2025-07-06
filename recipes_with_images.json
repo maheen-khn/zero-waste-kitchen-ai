@@ -1,802 +1,852 @@
 {
-    "Recipe 1": {
+    "Paneer Butter Masala 1": {
         "ingredients": [
-            "potato",
-            "wheat flour",
-            "butter",
-            "salt"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/bhEBO9e.jpg",
-        "video": "https://www.youtube.com/watch?v=fO0nS2UHXw0"
-    },
-    "Recipe 2": {
-        "ingredients": [
-            "semolina",
-            "vegetables",
-            "oil",
-            "mustard seeds"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/xIPT2tW.jpg",
-        "video": "https://www.youtube.com/watch?v=-K29M9UQCoY"
-    },
-    "Recipe 3": {
-        "ingredients": [
-            "bread",
-            "gram flour",
-            "spices",
-            "green chutney"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/UPoIMaD.jpg",
-        "video": "https://www.youtube.com/watch?v=FkFuIsG9ZT0"
-    },
-    "Recipe 4": {
-        "ingredients": [
-            "flattened rice",
-            "onion",
-            "lemon",
-            "peanuts"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/qLUg06Z.jpg",
-        "video": "https://www.youtube.com/watch?v=2vD7TApeDO0"
-    },
-    "Recipe 5": {
-        "ingredients": [
-            "pasta",
-            "cheese",
-            "tomato sauce",
-            "basil"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/x9FfCMJ.jpg",
-        "video": "https://www.youtube.com/watch?v=J6VdH2PKCBo"
-    },
-    "Recipe 6": {
-        "ingredients": [
-            "egg",
-            "milk",
-            "bread",
-            "pepper"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/bhEBO9e.jpg",
-        "video": "https://www.youtube.com/watch?v=fO0nS2UHXw0"
-    },
-    "Recipe 7": {
-        "ingredients": [
-            "banana",
-            "milk",
-            "honey",
-            "oats"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/xIPT2tW.jpg",
-        "video": "https://www.youtube.com/watch?v=-K29M9UQCoY"
-    },
-    "Recipe 8": {
-        "ingredients": [
-            "carrot",
-            "peas",
             "paneer",
-            "cream"
+            "butter",
+            "tomato",
+            "cream",
+            "spices"
         ],
         "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
             "4. Garnish and serve hot."
         ],
-        "image": "https://i.imgur.com/UPoIMaD.jpg",
-        "video": "https://www.youtube.com/watch?v=FkFuIsG9ZT0"
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/paneer-butter-masala.jpg",
+        "video": "https://www.youtube.com/watch?v=wsL7nH6NtyY"
     },
-    "Recipe 9": {
+    "Masala Dosa 1": {
         "ingredients": [
-            "chickpeas",
-            "onion",
-            "tomato",
-            "garam masala"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/qLUg06Z.jpg",
-        "video": "https://www.youtube.com/watch?v=2vD7TApeDO0"
-    },
-    "Recipe 10": {
-        "ingredients": [
-            "rice",
-            "tomato",
+            "dosa batter",
+            "potato",
+            "mustard seeds",
             "onion",
             "spices"
         ],
         "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
             "4. Garnish and serve hot."
         ],
-        "image": "https://i.imgur.com/x9FfCMJ.jpg",
-        "video": "https://www.youtube.com/watch?v=J6VdH2PKCBo"
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/masala-dosa-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=opOvJG7EqdA"
     },
-    "Recipe 11": {
-        "ingredients": [
-            "potato",
-            "wheat flour",
-            "butter",
-            "salt"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/bhEBO9e.jpg",
-        "video": "https://www.youtube.com/watch?v=fO0nS2UHXw0"
-    },
-    "Recipe 12": {
-        "ingredients": [
-            "semolina",
-            "vegetables",
-            "oil",
-            "mustard seeds"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/xIPT2tW.jpg",
-        "video": "https://www.youtube.com/watch?v=-K29M9UQCoY"
-    },
-    "Recipe 13": {
-        "ingredients": [
-            "bread",
-            "gram flour",
-            "spices",
-            "green chutney"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/UPoIMaD.jpg",
-        "video": "https://www.youtube.com/watch?v=FkFuIsG9ZT0"
-    },
-    "Recipe 14": {
-        "ingredients": [
-            "flattened rice",
-            "onion",
-            "lemon",
-            "peanuts"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/qLUg06Z.jpg",
-        "video": "https://www.youtube.com/watch?v=2vD7TApeDO0"
-    },
-    "Recipe 15": {
-        "ingredients": [
-            "pasta",
-            "cheese",
-            "tomato sauce",
-            "basil"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/x9FfCMJ.jpg",
-        "video": "https://www.youtube.com/watch?v=J6VdH2PKCBo"
-    },
-    "Recipe 16": {
-        "ingredients": [
-            "egg",
-            "milk",
-            "bread",
-            "pepper"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/bhEBO9e.jpg",
-        "video": "https://www.youtube.com/watch?v=fO0nS2UHXw0"
-    },
-    "Recipe 17": {
-        "ingredients": [
-            "banana",
-            "milk",
-            "honey",
-            "oats"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/xIPT2tW.jpg",
-        "video": "https://www.youtube.com/watch?v=-K29M9UQCoY"
-    },
-    "Recipe 18": {
-        "ingredients": [
-            "carrot",
-            "peas",
-            "paneer",
-            "cream"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/UPoIMaD.jpg",
-        "video": "https://www.youtube.com/watch?v=FkFuIsG9ZT0"
-    },
-    "Recipe 19": {
+    "Chole Bhature 1": {
         "ingredients": [
             "chickpeas",
             "onion",
             "tomato",
-            "garam masala"
+            "flour",
+            "yogurt",
+            "spices"
         ],
         "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
             "4. Garnish and serve hot."
         ],
-        "image": "https://i.imgur.com/qLUg06Z.jpg",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/chole-bhature-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=-4Vbcu3b4RA"
+    },
+    "Poha 1": {
+        "ingredients": [
+            "flattened rice",
+            "mustard seeds",
+            "onion",
+            "peanuts",
+            "lemon"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/poha-recipe.jpg",
         "video": "https://www.youtube.com/watch?v=2vD7TApeDO0"
     },
-    "Recipe 20": {
+    "Vegetable Pulao 1": {
+        "ingredients": [
+            "basmati rice",
+            "mixed vegetables",
+            "spices",
+            "ghee",
+            "onion"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/veg-pulao-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=AzNpXgHmJc0"
+    },
+    "Aloo Paratha 1": {
+        "ingredients": [
+            "potato",
+            "wheat flour",
+            "spices",
+            "butter"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/aloo-paratha.jpg",
+        "video": "https://www.youtube.com/watch?v=ywJrO3Z6mLo"
+    },
+    "Idli Sambar 1": {
         "ingredients": [
             "rice",
+            "urad dal",
+            "sambar powder",
+            "vegetables",
+            "mustard seeds"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/idli-sambar.jpg",
+        "video": "https://www.youtube.com/watch?v=APrbLpRZpno"
+    },
+    "Rajma Chawal 1": {
+        "ingredients": [
+            "rajma",
+            "onion",
             "tomato",
+            "spices",
+            "rice"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/rajma-chawal.jpg",
+        "video": "https://www.youtube.com/watch?v=jOvHf4kzOeU"
+    },
+    "Bhindi Fry 1": {
+        "ingredients": [
+            "okra",
+            "onion",
+            "mustard seeds",
+            "spices",
+            "oil"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/06/bhindi-fry.jpg",
+        "video": "https://www.youtube.com/watch?v=2X5VG_JR6OA"
+    },
+    "Pav Bhaji 1": {
+        "ingredients": [
+            "bun",
+            "potato",
+            "tomato",
+            "butter",
+            "spices"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/pav-bhaji.jpg",
+        "video": "https://www.youtube.com/watch?v=U9wPZGRH12U"
+    },
+    "Paneer Butter Masala 2": {
+        "ingredients": [
+            "paneer",
+            "butter",
+            "tomato",
+            "cream",
+            "spices"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/paneer-butter-masala.jpg",
+        "video": "https://www.youtube.com/watch?v=wsL7nH6NtyY"
+    },
+    "Masala Dosa 2": {
+        "ingredients": [
+            "dosa batter",
+            "potato",
+            "mustard seeds",
             "onion",
             "spices"
         ],
         "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
             "4. Garnish and serve hot."
         ],
-        "image": "https://i.imgur.com/x9FfCMJ.jpg",
-        "video": "https://www.youtube.com/watch?v=J6VdH2PKCBo"
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/masala-dosa-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=opOvJG7EqdA"
     },
-    "Recipe 21": {
-        "ingredients": [
-            "potato",
-            "wheat flour",
-            "butter",
-            "salt"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/bhEBO9e.jpg",
-        "video": "https://www.youtube.com/watch?v=fO0nS2UHXw0"
-    },
-    "Recipe 22": {
-        "ingredients": [
-            "semolina",
-            "vegetables",
-            "oil",
-            "mustard seeds"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/xIPT2tW.jpg",
-        "video": "https://www.youtube.com/watch?v=-K29M9UQCoY"
-    },
-    "Recipe 23": {
-        "ingredients": [
-            "bread",
-            "gram flour",
-            "spices",
-            "green chutney"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/UPoIMaD.jpg",
-        "video": "https://www.youtube.com/watch?v=FkFuIsG9ZT0"
-    },
-    "Recipe 24": {
-        "ingredients": [
-            "flattened rice",
-            "onion",
-            "lemon",
-            "peanuts"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/qLUg06Z.jpg",
-        "video": "https://www.youtube.com/watch?v=2vD7TApeDO0"
-    },
-    "Recipe 25": {
-        "ingredients": [
-            "pasta",
-            "cheese",
-            "tomato sauce",
-            "basil"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/x9FfCMJ.jpg",
-        "video": "https://www.youtube.com/watch?v=J6VdH2PKCBo"
-    },
-    "Recipe 26": {
-        "ingredients": [
-            "egg",
-            "milk",
-            "bread",
-            "pepper"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/bhEBO9e.jpg",
-        "video": "https://www.youtube.com/watch?v=fO0nS2UHXw0"
-    },
-    "Recipe 27": {
-        "ingredients": [
-            "banana",
-            "milk",
-            "honey",
-            "oats"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/xIPT2tW.jpg",
-        "video": "https://www.youtube.com/watch?v=-K29M9UQCoY"
-    },
-    "Recipe 28": {
-        "ingredients": [
-            "carrot",
-            "peas",
-            "paneer",
-            "cream"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/UPoIMaD.jpg",
-        "video": "https://www.youtube.com/watch?v=FkFuIsG9ZT0"
-    },
-    "Recipe 29": {
+    "Chole Bhature 2": {
         "ingredients": [
             "chickpeas",
             "onion",
             "tomato",
-            "garam masala"
+            "flour",
+            "yogurt",
+            "spices"
         ],
         "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
             "4. Garnish and serve hot."
         ],
-        "image": "https://i.imgur.com/qLUg06Z.jpg",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/chole-bhature-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=-4Vbcu3b4RA"
+    },
+    "Poha 2": {
+        "ingredients": [
+            "flattened rice",
+            "mustard seeds",
+            "onion",
+            "peanuts",
+            "lemon"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/poha-recipe.jpg",
         "video": "https://www.youtube.com/watch?v=2vD7TApeDO0"
     },
-    "Recipe 30": {
+    "Vegetable Pulao 2": {
+        "ingredients": [
+            "basmati rice",
+            "mixed vegetables",
+            "spices",
+            "ghee",
+            "onion"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/veg-pulao-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=AzNpXgHmJc0"
+    },
+    "Aloo Paratha 2": {
+        "ingredients": [
+            "potato",
+            "wheat flour",
+            "spices",
+            "butter"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/aloo-paratha.jpg",
+        "video": "https://www.youtube.com/watch?v=ywJrO3Z6mLo"
+    },
+    "Idli Sambar 2": {
         "ingredients": [
             "rice",
+            "urad dal",
+            "sambar powder",
+            "vegetables",
+            "mustard seeds"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/idli-sambar.jpg",
+        "video": "https://www.youtube.com/watch?v=APrbLpRZpno"
+    },
+    "Rajma Chawal 2": {
+        "ingredients": [
+            "rajma",
+            "onion",
             "tomato",
+            "spices",
+            "rice"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/rajma-chawal.jpg",
+        "video": "https://www.youtube.com/watch?v=jOvHf4kzOeU"
+    },
+    "Bhindi Fry 2": {
+        "ingredients": [
+            "okra",
+            "onion",
+            "mustard seeds",
+            "spices",
+            "oil"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/06/bhindi-fry.jpg",
+        "video": "https://www.youtube.com/watch?v=2X5VG_JR6OA"
+    },
+    "Pav Bhaji 2": {
+        "ingredients": [
+            "bun",
+            "potato",
+            "tomato",
+            "butter",
+            "spices"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/pav-bhaji.jpg",
+        "video": "https://www.youtube.com/watch?v=U9wPZGRH12U"
+    },
+    "Paneer Butter Masala 3": {
+        "ingredients": [
+            "paneer",
+            "butter",
+            "tomato",
+            "cream",
+            "spices"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/paneer-butter-masala.jpg",
+        "video": "https://www.youtube.com/watch?v=wsL7nH6NtyY"
+    },
+    "Masala Dosa 3": {
+        "ingredients": [
+            "dosa batter",
+            "potato",
+            "mustard seeds",
             "onion",
             "spices"
         ],
         "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
             "4. Garnish and serve hot."
         ],
-        "image": "https://i.imgur.com/x9FfCMJ.jpg",
-        "video": "https://www.youtube.com/watch?v=J6VdH2PKCBo"
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/masala-dosa-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=opOvJG7EqdA"
     },
-    "Recipe 31": {
-        "ingredients": [
-            "potato",
-            "wheat flour",
-            "butter",
-            "salt"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/bhEBO9e.jpg",
-        "video": "https://www.youtube.com/watch?v=fO0nS2UHXw0"
-    },
-    "Recipe 32": {
-        "ingredients": [
-            "semolina",
-            "vegetables",
-            "oil",
-            "mustard seeds"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/xIPT2tW.jpg",
-        "video": "https://www.youtube.com/watch?v=-K29M9UQCoY"
-    },
-    "Recipe 33": {
-        "ingredients": [
-            "bread",
-            "gram flour",
-            "spices",
-            "green chutney"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/UPoIMaD.jpg",
-        "video": "https://www.youtube.com/watch?v=FkFuIsG9ZT0"
-    },
-    "Recipe 34": {
-        "ingredients": [
-            "flattened rice",
-            "onion",
-            "lemon",
-            "peanuts"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/qLUg06Z.jpg",
-        "video": "https://www.youtube.com/watch?v=2vD7TApeDO0"
-    },
-    "Recipe 35": {
-        "ingredients": [
-            "pasta",
-            "cheese",
-            "tomato sauce",
-            "basil"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/x9FfCMJ.jpg",
-        "video": "https://www.youtube.com/watch?v=J6VdH2PKCBo"
-    },
-    "Recipe 36": {
-        "ingredients": [
-            "egg",
-            "milk",
-            "bread",
-            "pepper"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/bhEBO9e.jpg",
-        "video": "https://www.youtube.com/watch?v=fO0nS2UHXw0"
-    },
-    "Recipe 37": {
-        "ingredients": [
-            "banana",
-            "milk",
-            "honey",
-            "oats"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/xIPT2tW.jpg",
-        "video": "https://www.youtube.com/watch?v=-K29M9UQCoY"
-    },
-    "Recipe 38": {
-        "ingredients": [
-            "carrot",
-            "peas",
-            "paneer",
-            "cream"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/UPoIMaD.jpg",
-        "video": "https://www.youtube.com/watch?v=FkFuIsG9ZT0"
-    },
-    "Recipe 39": {
+    "Chole Bhature 3": {
         "ingredients": [
             "chickpeas",
             "onion",
             "tomato",
-            "garam masala"
+            "flour",
+            "yogurt",
+            "spices"
         ],
         "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
             "4. Garnish and serve hot."
         ],
-        "image": "https://i.imgur.com/qLUg06Z.jpg",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/chole-bhature-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=-4Vbcu3b4RA"
+    },
+    "Poha 3": {
+        "ingredients": [
+            "flattened rice",
+            "mustard seeds",
+            "onion",
+            "peanuts",
+            "lemon"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/poha-recipe.jpg",
         "video": "https://www.youtube.com/watch?v=2vD7TApeDO0"
     },
-    "Recipe 40": {
+    "Vegetable Pulao 3": {
+        "ingredients": [
+            "basmati rice",
+            "mixed vegetables",
+            "spices",
+            "ghee",
+            "onion"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/veg-pulao-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=AzNpXgHmJc0"
+    },
+    "Aloo Paratha 3": {
+        "ingredients": [
+            "potato",
+            "wheat flour",
+            "spices",
+            "butter"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/aloo-paratha.jpg",
+        "video": "https://www.youtube.com/watch?v=ywJrO3Z6mLo"
+    },
+    "Idli Sambar 3": {
         "ingredients": [
             "rice",
+            "urad dal",
+            "sambar powder",
+            "vegetables",
+            "mustard seeds"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/idli-sambar.jpg",
+        "video": "https://www.youtube.com/watch?v=APrbLpRZpno"
+    },
+    "Rajma Chawal 3": {
+        "ingredients": [
+            "rajma",
+            "onion",
             "tomato",
+            "spices",
+            "rice"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/rajma-chawal.jpg",
+        "video": "https://www.youtube.com/watch?v=jOvHf4kzOeU"
+    },
+    "Bhindi Fry 3": {
+        "ingredients": [
+            "okra",
+            "onion",
+            "mustard seeds",
+            "spices",
+            "oil"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/06/bhindi-fry.jpg",
+        "video": "https://www.youtube.com/watch?v=2X5VG_JR6OA"
+    },
+    "Pav Bhaji 3": {
+        "ingredients": [
+            "bun",
+            "potato",
+            "tomato",
+            "butter",
+            "spices"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/pav-bhaji.jpg",
+        "video": "https://www.youtube.com/watch?v=U9wPZGRH12U"
+    },
+    "Paneer Butter Masala 4": {
+        "ingredients": [
+            "paneer",
+            "butter",
+            "tomato",
+            "cream",
+            "spices"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/paneer-butter-masala.jpg",
+        "video": "https://www.youtube.com/watch?v=wsL7nH6NtyY"
+    },
+    "Masala Dosa 4": {
+        "ingredients": [
+            "dosa batter",
+            "potato",
+            "mustard seeds",
             "onion",
             "spices"
         ],
         "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
             "4. Garnish and serve hot."
         ],
-        "image": "https://i.imgur.com/x9FfCMJ.jpg",
-        "video": "https://www.youtube.com/watch?v=J6VdH2PKCBo"
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/masala-dosa-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=opOvJG7EqdA"
     },
-    "Recipe 41": {
-        "ingredients": [
-            "potato",
-            "wheat flour",
-            "butter",
-            "salt"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/bhEBO9e.jpg",
-        "video": "https://www.youtube.com/watch?v=fO0nS2UHXw0"
-    },
-    "Recipe 42": {
-        "ingredients": [
-            "semolina",
-            "vegetables",
-            "oil",
-            "mustard seeds"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/xIPT2tW.jpg",
-        "video": "https://www.youtube.com/watch?v=-K29M9UQCoY"
-    },
-    "Recipe 43": {
-        "ingredients": [
-            "bread",
-            "gram flour",
-            "spices",
-            "green chutney"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/UPoIMaD.jpg",
-        "video": "https://www.youtube.com/watch?v=FkFuIsG9ZT0"
-    },
-    "Recipe 44": {
-        "ingredients": [
-            "flattened rice",
-            "onion",
-            "lemon",
-            "peanuts"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/qLUg06Z.jpg",
-        "video": "https://www.youtube.com/watch?v=2vD7TApeDO0"
-    },
-    "Recipe 45": {
-        "ingredients": [
-            "pasta",
-            "cheese",
-            "tomato sauce",
-            "basil"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/x9FfCMJ.jpg",
-        "video": "https://www.youtube.com/watch?v=J6VdH2PKCBo"
-    },
-    "Recipe 46": {
-        "ingredients": [
-            "egg",
-            "milk",
-            "bread",
-            "pepper"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/bhEBO9e.jpg",
-        "video": "https://www.youtube.com/watch?v=fO0nS2UHXw0"
-    },
-    "Recipe 47": {
-        "ingredients": [
-            "banana",
-            "milk",
-            "honey",
-            "oats"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/xIPT2tW.jpg",
-        "video": "https://www.youtube.com/watch?v=-K29M9UQCoY"
-    },
-    "Recipe 48": {
-        "ingredients": [
-            "carrot",
-            "peas",
-            "paneer",
-            "cream"
-        ],
-        "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
-            "4. Garnish and serve hot."
-        ],
-        "image": "https://i.imgur.com/UPoIMaD.jpg",
-        "video": "https://www.youtube.com/watch?v=FkFuIsG9ZT0"
-    },
-    "Recipe 49": {
+    "Chole Bhature 4": {
         "ingredients": [
             "chickpeas",
             "onion",
             "tomato",
-            "garam masala"
+            "flour",
+            "yogurt",
+            "spices"
         ],
         "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
             "4. Garnish and serve hot."
         ],
-        "image": "https://i.imgur.com/qLUg06Z.jpg",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/chole-bhature-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=-4Vbcu3b4RA"
+    },
+    "Poha 4": {
+        "ingredients": [
+            "flattened rice",
+            "mustard seeds",
+            "onion",
+            "peanuts",
+            "lemon"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/poha-recipe.jpg",
         "video": "https://www.youtube.com/watch?v=2vD7TApeDO0"
     },
-    "Recipe 50": {
+    "Vegetable Pulao 4": {
+        "ingredients": [
+            "basmati rice",
+            "mixed vegetables",
+            "spices",
+            "ghee",
+            "onion"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/veg-pulao-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=AzNpXgHmJc0"
+    },
+    "Aloo Paratha 4": {
+        "ingredients": [
+            "potato",
+            "wheat flour",
+            "spices",
+            "butter"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/aloo-paratha.jpg",
+        "video": "https://www.youtube.com/watch?v=ywJrO3Z6mLo"
+    },
+    "Idli Sambar 4": {
         "ingredients": [
             "rice",
+            "urad dal",
+            "sambar powder",
+            "vegetables",
+            "mustard seeds"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/idli-sambar.jpg",
+        "video": "https://www.youtube.com/watch?v=APrbLpRZpno"
+    },
+    "Rajma Chawal 4": {
+        "ingredients": [
+            "rajma",
+            "onion",
             "tomato",
+            "spices",
+            "rice"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/rajma-chawal.jpg",
+        "video": "https://www.youtube.com/watch?v=jOvHf4kzOeU"
+    },
+    "Bhindi Fry 4": {
+        "ingredients": [
+            "okra",
+            "onion",
+            "mustard seeds",
+            "spices",
+            "oil"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/06/bhindi-fry.jpg",
+        "video": "https://www.youtube.com/watch?v=2X5VG_JR6OA"
+    },
+    "Pav Bhaji 4": {
+        "ingredients": [
+            "bun",
+            "potato",
+            "tomato",
+            "butter",
+            "spices"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/pav-bhaji.jpg",
+        "video": "https://www.youtube.com/watch?v=U9wPZGRH12U"
+    },
+    "Paneer Butter Masala 5": {
+        "ingredients": [
+            "paneer",
+            "butter",
+            "tomato",
+            "cream",
+            "spices"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/paneer-butter-masala.jpg",
+        "video": "https://www.youtube.com/watch?v=wsL7nH6NtyY"
+    },
+    "Masala Dosa 5": {
+        "ingredients": [
+            "dosa batter",
+            "potato",
+            "mustard seeds",
             "onion",
             "spices"
         ],
         "steps": [
-            "1. Prepare the base ingredients.",
-            "2. Cook the main component until soft.",
-            "3. Add spices and mix thoroughly.",
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
             "4. Garnish and serve hot."
         ],
-        "image": "https://i.imgur.com/x9FfCMJ.jpg",
-        "video": "https://www.youtube.com/watch?v=J6VdH2PKCBo"
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/masala-dosa-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=opOvJG7EqdA"
+    },
+    "Chole Bhature 5": {
+        "ingredients": [
+            "chickpeas",
+            "onion",
+            "tomato",
+            "flour",
+            "yogurt",
+            "spices"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/chole-bhature-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=-4Vbcu3b4RA"
+    },
+    "Poha 5": {
+        "ingredients": [
+            "flattened rice",
+            "mustard seeds",
+            "onion",
+            "peanuts",
+            "lemon"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/poha-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=2vD7TApeDO0"
+    },
+    "Vegetable Pulao 5": {
+        "ingredients": [
+            "basmati rice",
+            "mixed vegetables",
+            "spices",
+            "ghee",
+            "onion"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/veg-pulao-recipe.jpg",
+        "video": "https://www.youtube.com/watch?v=AzNpXgHmJc0"
+    },
+    "Aloo Paratha 5": {
+        "ingredients": [
+            "potato",
+            "wheat flour",
+            "spices",
+            "butter"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/aloo-paratha.jpg",
+        "video": "https://www.youtube.com/watch?v=ywJrO3Z6mLo"
+    },
+    "Idli Sambar 5": {
+        "ingredients": [
+            "rice",
+            "urad dal",
+            "sambar powder",
+            "vegetables",
+            "mustard seeds"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/idli-sambar.jpg",
+        "video": "https://www.youtube.com/watch?v=APrbLpRZpno"
+    },
+    "Rajma Chawal 5": {
+        "ingredients": [
+            "rajma",
+            "onion",
+            "tomato",
+            "spices",
+            "rice"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/rajma-chawal.jpg",
+        "video": "https://www.youtube.com/watch?v=jOvHf4kzOeU"
+    },
+    "Bhindi Fry 5": {
+        "ingredients": [
+            "okra",
+            "onion",
+            "mustard seeds",
+            "spices",
+            "oil"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/06/bhindi-fry.jpg",
+        "video": "https://www.youtube.com/watch?v=2X5VG_JR6OA"
+    },
+    "Pav Bhaji 5": {
+        "ingredients": [
+            "bun",
+            "potato",
+            "tomato",
+            "butter",
+            "spices"
+        ],
+        "steps": [
+            "1. Prepare the ingredients as required.",
+            "2. Cook the base using onions, tomatoes, and spices.",
+            "3. Add the main ingredient and cook till done.",
+            "4. Garnish and serve hot."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/pav-bhaji.jpg",
+        "video": "https://www.youtube.com/watch?v=U9wPZGRH12U"
     }
 }
