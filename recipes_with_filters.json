@@ -1,802 +1,825 @@
 {
-    "Sample Recipe 1": {
+    "Butter Chicken": {
         "ingredients": [
-            "ingredient1",
-            "ingredient2",
-            "ingredient3"
+            "chicken",
+            "butter",
+            "tomatoes",
+            "cream",
+            "garam masala",
+            "garlic",
+            "ginger",
+            "onion",
+            "salt",
+            "red chili powder"
         ],
         "steps": [
-            "Step 1-1",
-            "Step 1-2",
-            "Step 1-3"
+            "Marinate chicken with yogurt, chili powder, and salt for 1 hour.",
+            "Grill or pan-fry the marinated chicken pieces.",
+            "Saut\u00e9 onions, garlic, and ginger in butter.",
+            "Add tomatoes and spices, cook until oil separates.",
+            "Blend the mixture, then add cream and chicken.",
+            "Simmer until creamy and cooked through."
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://i.pinimg.com/originals/36/4a/e1/364ae1b2d2ae4e29c76fcbb98edbc003.jpg",
+        "video": "https://www.youtube.com/watch?v=n_LcNdvXFS4",
+        "cuisine": "Indian",
+        "meal_type": "Dinner"
+    },
+    "Pasta Carbonara": {
+        "ingredients": [
+            "spaghetti",
+            "eggs",
+            "parmesan",
+            "pancetta",
+            "black pepper",
+            "salt"
+        ],
+        "steps": [
+            "Boil pasta until al dente.",
+            "Fry pancetta until crispy.",
+            "Whisk eggs and parmesan together.",
+            "Mix pasta with pancetta and remove from heat.",
+            "Add egg mixture and toss quickly.",
+            "Season with black pepper and serve."
+        ],
+        "image": "https://i.pinimg.com/originals/b5/62/10/b56210b2c891b82d7ae36d1ef8dca5ee.jpg",
+        "video": "https://www.youtube.com/watch?v=3AAdKl1UYZs",
+        "cuisine": "Italian",
+        "meal_type": "Dinner"
+    },
+    "Veg Pulao": {
+        "ingredients": [
+            "basmati rice",
+            "carrots",
+            "peas",
+            "beans",
+            "onion",
+            "garam masala",
+            "salt",
+            "oil"
+        ],
+        "steps": [
+            "Wash and soak rice for 30 minutes.",
+            "Saut\u00e9 onions and vegetables in oil.",
+            "Add spices and rice, mix gently.",
+            "Add water and cook covered until rice is done.",
+            "Let it sit covered for 5 minutes before serving."
+        ],
+        "image": "https://i.pinimg.com/originals/3e/b5/27/3eb52750b1529cc6f15ef0f4a8c47982.jpg",
+        "video": "https://www.youtube.com/watch?v=Y0tIHPAUyXM",
+        "cuisine": "Indian",
+        "meal_type": "Lunch"
+    },
+    "Recipe 4": {
+        "ingredients": [
+            "ingredient4_1",
+            "ingredient4_2",
+            "ingredient4_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 4",
+            "Step 2 for recipe 4",
+            "Step 3 for recipe 4"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+4",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Sample Recipe 2": {
+    "Recipe 5": {
         "ingredients": [
-            "ingredient2",
-            "ingredient3",
-            "ingredient4"
+            "ingredient5_1",
+            "ingredient5_2",
+            "ingredient5_3"
         ],
         "steps": [
-            "Step 2-1",
-            "Step 2-2",
-            "Step 2-3"
+            "Step 1 for recipe 5",
+            "Step 2 for recipe 5",
+            "Step 3 for recipe 5"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+5",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Sample Recipe 3": {
+    "Recipe 6": {
         "ingredients": [
-            "ingredient3",
-            "ingredient4",
-            "ingredient5"
+            "ingredient6_1",
+            "ingredient6_2",
+            "ingredient6_3"
         ],
         "steps": [
-            "Step 3-1",
-            "Step 3-2",
-            "Step 3-3"
+            "Step 1 for recipe 6",
+            "Step 2 for recipe 6",
+            "Step 3 for recipe 6"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "International",
-        "meal_type": "Snack"
-    },
-    "Sample Recipe 4": {
-        "ingredients": [
-            "ingredient4",
-            "ingredient5",
-            "ingredient6"
-        ],
-        "steps": [
-            "Step 4-1",
-            "Step 4-2",
-            "Step 4-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "Indian",
-        "meal_type": "Breakfast"
-    },
-    "Sample Recipe 5": {
-        "ingredients": [
-            "ingredient5",
-            "ingredient6",
-            "ingredient7"
-        ],
-        "steps": [
-            "Step 5-1",
-            "Step 5-2",
-            "Step 5-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+6",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Sample Recipe 6": {
+    "Recipe 7": {
         "ingredients": [
-            "ingredient6",
-            "ingredient7",
-            "ingredient8"
+            "ingredient7_1",
+            "ingredient7_2",
+            "ingredient7_3"
         ],
         "steps": [
-            "Step 6-1",
-            "Step 6-2",
-            "Step 6-3"
+            "Step 1 for recipe 7",
+            "Step 2 for recipe 7",
+            "Step 3 for recipe 7"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+7",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Sample Recipe 7": {
+    "Recipe 8": {
         "ingredients": [
-            "ingredient7",
-            "ingredient8",
-            "ingredient9"
+            "ingredient8_1",
+            "ingredient8_2",
+            "ingredient8_3"
         ],
         "steps": [
-            "Step 7-1",
-            "Step 7-2",
-            "Step 7-3"
+            "Step 1 for recipe 8",
+            "Step 2 for recipe 8",
+            "Step 3 for recipe 8"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "International",
-        "meal_type": "Snack"
-    },
-    "Sample Recipe 8": {
-        "ingredients": [
-            "ingredient8",
-            "ingredient9",
-            "ingredient10"
-        ],
-        "steps": [
-            "Step 8-1",
-            "Step 8-2",
-            "Step 8-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "Indian",
-        "meal_type": "Breakfast"
-    },
-    "Sample Recipe 9": {
-        "ingredients": [
-            "ingredient9",
-            "ingredient10",
-            "ingredient11"
-        ],
-        "steps": [
-            "Step 9-1",
-            "Step 9-2",
-            "Step 9-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+8",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Sample Recipe 10": {
+    "Recipe 9": {
         "ingredients": [
-            "ingredient10",
-            "ingredient11",
-            "ingredient12"
+            "ingredient9_1",
+            "ingredient9_2",
+            "ingredient9_3"
         ],
         "steps": [
-            "Step 10-1",
-            "Step 10-2",
-            "Step 10-3"
+            "Step 1 for recipe 9",
+            "Step 2 for recipe 9",
+            "Step 3 for recipe 9"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+9",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Sample Recipe 11": {
+    "Recipe 10": {
         "ingredients": [
-            "ingredient11",
-            "ingredient12",
-            "ingredient13"
+            "ingredient10_1",
+            "ingredient10_2",
+            "ingredient10_3"
         ],
         "steps": [
-            "Step 11-1",
-            "Step 11-2",
-            "Step 11-3"
+            "Step 1 for recipe 10",
+            "Step 2 for recipe 10",
+            "Step 3 for recipe 10"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "International",
-        "meal_type": "Snack"
-    },
-    "Sample Recipe 12": {
-        "ingredients": [
-            "ingredient12",
-            "ingredient13",
-            "ingredient14"
-        ],
-        "steps": [
-            "Step 12-1",
-            "Step 12-2",
-            "Step 12-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "Indian",
-        "meal_type": "Breakfast"
-    },
-    "Sample Recipe 13": {
-        "ingredients": [
-            "ingredient13",
-            "ingredient14",
-            "ingredient15"
-        ],
-        "steps": [
-            "Step 13-1",
-            "Step 13-2",
-            "Step 13-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+10",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Sample Recipe 14": {
+    "Recipe 11": {
         "ingredients": [
-            "ingredient14",
-            "ingredient15",
-            "ingredient16"
+            "ingredient11_1",
+            "ingredient11_2",
+            "ingredient11_3"
         ],
         "steps": [
-            "Step 14-1",
-            "Step 14-2",
-            "Step 14-3"
+            "Step 1 for recipe 11",
+            "Step 2 for recipe 11",
+            "Step 3 for recipe 11"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+11",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Sample Recipe 15": {
+    "Recipe 12": {
         "ingredients": [
-            "ingredient15",
-            "ingredient16",
-            "ingredient17"
+            "ingredient12_1",
+            "ingredient12_2",
+            "ingredient12_3"
         ],
         "steps": [
-            "Step 15-1",
-            "Step 15-2",
-            "Step 15-3"
+            "Step 1 for recipe 12",
+            "Step 2 for recipe 12",
+            "Step 3 for recipe 12"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "International",
-        "meal_type": "Snack"
-    },
-    "Sample Recipe 16": {
-        "ingredients": [
-            "ingredient16",
-            "ingredient17",
-            "ingredient18"
-        ],
-        "steps": [
-            "Step 16-1",
-            "Step 16-2",
-            "Step 16-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "Indian",
-        "meal_type": "Breakfast"
-    },
-    "Sample Recipe 17": {
-        "ingredients": [
-            "ingredient17",
-            "ingredient18",
-            "ingredient19"
-        ],
-        "steps": [
-            "Step 17-1",
-            "Step 17-2",
-            "Step 17-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+12",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Sample Recipe 18": {
+    "Recipe 13": {
         "ingredients": [
-            "ingredient18",
-            "ingredient19",
-            "ingredient20"
+            "ingredient13_1",
+            "ingredient13_2",
+            "ingredient13_3"
         ],
         "steps": [
-            "Step 18-1",
-            "Step 18-2",
-            "Step 18-3"
+            "Step 1 for recipe 13",
+            "Step 2 for recipe 13",
+            "Step 3 for recipe 13"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+13",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Sample Recipe 19": {
+    "Recipe 14": {
         "ingredients": [
-            "ingredient19",
-            "ingredient20",
-            "ingredient21"
+            "ingredient14_1",
+            "ingredient14_2",
+            "ingredient14_3"
         ],
         "steps": [
-            "Step 19-1",
-            "Step 19-2",
-            "Step 19-3"
+            "Step 1 for recipe 14",
+            "Step 2 for recipe 14",
+            "Step 3 for recipe 14"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "International",
-        "meal_type": "Snack"
-    },
-    "Sample Recipe 20": {
-        "ingredients": [
-            "ingredient20",
-            "ingredient21",
-            "ingredient22"
-        ],
-        "steps": [
-            "Step 20-1",
-            "Step 20-2",
-            "Step 20-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "Indian",
-        "meal_type": "Breakfast"
-    },
-    "Sample Recipe 21": {
-        "ingredients": [
-            "ingredient21",
-            "ingredient22",
-            "ingredient23"
-        ],
-        "steps": [
-            "Step 21-1",
-            "Step 21-2",
-            "Step 21-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+14",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Sample Recipe 22": {
+    "Recipe 15": {
         "ingredients": [
-            "ingredient22",
-            "ingredient23",
-            "ingredient24"
+            "ingredient15_1",
+            "ingredient15_2",
+            "ingredient15_3"
         ],
         "steps": [
-            "Step 22-1",
-            "Step 22-2",
-            "Step 22-3"
+            "Step 1 for recipe 15",
+            "Step 2 for recipe 15",
+            "Step 3 for recipe 15"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+15",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Sample Recipe 23": {
+    "Recipe 16": {
         "ingredients": [
-            "ingredient23",
-            "ingredient24",
-            "ingredient25"
+            "ingredient16_1",
+            "ingredient16_2",
+            "ingredient16_3"
         ],
         "steps": [
-            "Step 23-1",
-            "Step 23-2",
-            "Step 23-3"
+            "Step 1 for recipe 16",
+            "Step 2 for recipe 16",
+            "Step 3 for recipe 16"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "International",
-        "meal_type": "Snack"
-    },
-    "Sample Recipe 24": {
-        "ingredients": [
-            "ingredient24",
-            "ingredient25",
-            "ingredient26"
-        ],
-        "steps": [
-            "Step 24-1",
-            "Step 24-2",
-            "Step 24-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "Indian",
-        "meal_type": "Breakfast"
-    },
-    "Sample Recipe 25": {
-        "ingredients": [
-            "ingredient25",
-            "ingredient26",
-            "ingredient27"
-        ],
-        "steps": [
-            "Step 25-1",
-            "Step 25-2",
-            "Step 25-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+16",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Sample Recipe 26": {
+    "Recipe 17": {
         "ingredients": [
-            "ingredient26",
-            "ingredient27",
-            "ingredient28"
+            "ingredient17_1",
+            "ingredient17_2",
+            "ingredient17_3"
         ],
         "steps": [
-            "Step 26-1",
-            "Step 26-2",
-            "Step 26-3"
+            "Step 1 for recipe 17",
+            "Step 2 for recipe 17",
+            "Step 3 for recipe 17"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+17",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Sample Recipe 27": {
+    "Recipe 18": {
         "ingredients": [
-            "ingredient27",
-            "ingredient28",
-            "ingredient29"
+            "ingredient18_1",
+            "ingredient18_2",
+            "ingredient18_3"
         ],
         "steps": [
-            "Step 27-1",
-            "Step 27-2",
-            "Step 27-3"
+            "Step 1 for recipe 18",
+            "Step 2 for recipe 18",
+            "Step 3 for recipe 18"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "International",
-        "meal_type": "Snack"
-    },
-    "Sample Recipe 28": {
-        "ingredients": [
-            "ingredient28",
-            "ingredient29",
-            "ingredient30"
-        ],
-        "steps": [
-            "Step 28-1",
-            "Step 28-2",
-            "Step 28-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "Indian",
-        "meal_type": "Breakfast"
-    },
-    "Sample Recipe 29": {
-        "ingredients": [
-            "ingredient29",
-            "ingredient30",
-            "ingredient31"
-        ],
-        "steps": [
-            "Step 29-1",
-            "Step 29-2",
-            "Step 29-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+18",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Sample Recipe 30": {
+    "Recipe 19": {
         "ingredients": [
-            "ingredient30",
-            "ingredient31",
-            "ingredient32"
+            "ingredient19_1",
+            "ingredient19_2",
+            "ingredient19_3"
         ],
         "steps": [
-            "Step 30-1",
-            "Step 30-2",
-            "Step 30-3"
+            "Step 1 for recipe 19",
+            "Step 2 for recipe 19",
+            "Step 3 for recipe 19"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+19",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Sample Recipe 31": {
+    "Recipe 20": {
         "ingredients": [
-            "ingredient31",
-            "ingredient32",
-            "ingredient33"
+            "ingredient20_1",
+            "ingredient20_2",
+            "ingredient20_3"
         ],
         "steps": [
-            "Step 31-1",
-            "Step 31-2",
-            "Step 31-3"
+            "Step 1 for recipe 20",
+            "Step 2 for recipe 20",
+            "Step 3 for recipe 20"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "International",
-        "meal_type": "Snack"
-    },
-    "Sample Recipe 32": {
-        "ingredients": [
-            "ingredient32",
-            "ingredient33",
-            "ingredient34"
-        ],
-        "steps": [
-            "Step 32-1",
-            "Step 32-2",
-            "Step 32-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "Indian",
-        "meal_type": "Breakfast"
-    },
-    "Sample Recipe 33": {
-        "ingredients": [
-            "ingredient33",
-            "ingredient34",
-            "ingredient35"
-        ],
-        "steps": [
-            "Step 33-1",
-            "Step 33-2",
-            "Step 33-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+20",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Sample Recipe 34": {
+    "Recipe 21": {
         "ingredients": [
-            "ingredient34",
-            "ingredient35",
-            "ingredient36"
+            "ingredient21_1",
+            "ingredient21_2",
+            "ingredient21_3"
         ],
         "steps": [
-            "Step 34-1",
-            "Step 34-2",
-            "Step 34-3"
+            "Step 1 for recipe 21",
+            "Step 2 for recipe 21",
+            "Step 3 for recipe 21"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+21",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Sample Recipe 35": {
+    "Recipe 22": {
         "ingredients": [
-            "ingredient35",
-            "ingredient36",
-            "ingredient37"
+            "ingredient22_1",
+            "ingredient22_2",
+            "ingredient22_3"
         ],
         "steps": [
-            "Step 35-1",
-            "Step 35-2",
-            "Step 35-3"
+            "Step 1 for recipe 22",
+            "Step 2 for recipe 22",
+            "Step 3 for recipe 22"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "International",
-        "meal_type": "Snack"
-    },
-    "Sample Recipe 36": {
-        "ingredients": [
-            "ingredient36",
-            "ingredient37",
-            "ingredient38"
-        ],
-        "steps": [
-            "Step 36-1",
-            "Step 36-2",
-            "Step 36-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "Indian",
-        "meal_type": "Breakfast"
-    },
-    "Sample Recipe 37": {
-        "ingredients": [
-            "ingredient37",
-            "ingredient38",
-            "ingredient39"
-        ],
-        "steps": [
-            "Step 37-1",
-            "Step 37-2",
-            "Step 37-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+22",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Sample Recipe 38": {
+    "Recipe 23": {
         "ingredients": [
-            "ingredient38",
-            "ingredient39",
-            "ingredient40"
+            "ingredient23_1",
+            "ingredient23_2",
+            "ingredient23_3"
         ],
         "steps": [
-            "Step 38-1",
-            "Step 38-2",
-            "Step 38-3"
+            "Step 1 for recipe 23",
+            "Step 2 for recipe 23",
+            "Step 3 for recipe 23"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+23",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Sample Recipe 39": {
+    "Recipe 24": {
         "ingredients": [
-            "ingredient39",
-            "ingredient40",
-            "ingredient41"
+            "ingredient24_1",
+            "ingredient24_2",
+            "ingredient24_3"
         ],
         "steps": [
-            "Step 39-1",
-            "Step 39-2",
-            "Step 39-3"
+            "Step 1 for recipe 24",
+            "Step 2 for recipe 24",
+            "Step 3 for recipe 24"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "International",
-        "meal_type": "Snack"
-    },
-    "Sample Recipe 40": {
-        "ingredients": [
-            "ingredient40",
-            "ingredient41",
-            "ingredient42"
-        ],
-        "steps": [
-            "Step 40-1",
-            "Step 40-2",
-            "Step 40-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "Indian",
-        "meal_type": "Breakfast"
-    },
-    "Sample Recipe 41": {
-        "ingredients": [
-            "ingredient41",
-            "ingredient42",
-            "ingredient43"
-        ],
-        "steps": [
-            "Step 41-1",
-            "Step 41-2",
-            "Step 41-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+24",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Sample Recipe 42": {
+    "Recipe 25": {
         "ingredients": [
-            "ingredient42",
-            "ingredient43",
-            "ingredient44"
+            "ingredient25_1",
+            "ingredient25_2",
+            "ingredient25_3"
         ],
         "steps": [
-            "Step 42-1",
-            "Step 42-2",
-            "Step 42-3"
+            "Step 1 for recipe 25",
+            "Step 2 for recipe 25",
+            "Step 3 for recipe 25"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+25",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Sample Recipe 43": {
+    "Recipe 26": {
         "ingredients": [
-            "ingredient43",
-            "ingredient44",
-            "ingredient45"
+            "ingredient26_1",
+            "ingredient26_2",
+            "ingredient26_3"
         ],
         "steps": [
-            "Step 43-1",
-            "Step 43-2",
-            "Step 43-3"
+            "Step 1 for recipe 26",
+            "Step 2 for recipe 26",
+            "Step 3 for recipe 26"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "International",
-        "meal_type": "Snack"
-    },
-    "Sample Recipe 44": {
-        "ingredients": [
-            "ingredient44",
-            "ingredient45",
-            "ingredient46"
-        ],
-        "steps": [
-            "Step 44-1",
-            "Step 44-2",
-            "Step 44-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "Indian",
-        "meal_type": "Breakfast"
-    },
-    "Sample Recipe 45": {
-        "ingredients": [
-            "ingredient45",
-            "ingredient46",
-            "ingredient47"
-        ],
-        "steps": [
-            "Step 45-1",
-            "Step 45-2",
-            "Step 45-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+26",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Sample Recipe 46": {
+    "Recipe 27": {
         "ingredients": [
-            "ingredient46",
-            "ingredient47",
-            "ingredient48"
+            "ingredient27_1",
+            "ingredient27_2",
+            "ingredient27_3"
         ],
         "steps": [
-            "Step 46-1",
-            "Step 46-2",
-            "Step 46-3"
+            "Step 1 for recipe 27",
+            "Step 2 for recipe 27",
+            "Step 3 for recipe 27"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+27",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Sample Recipe 47": {
+    "Recipe 28": {
         "ingredients": [
-            "ingredient47",
-            "ingredient48",
-            "ingredient49"
+            "ingredient28_1",
+            "ingredient28_2",
+            "ingredient28_3"
         ],
         "steps": [
-            "Step 47-1",
-            "Step 47-2",
-            "Step 47-3"
+            "Step 1 for recipe 28",
+            "Step 2 for recipe 28",
+            "Step 3 for recipe 28"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "International",
-        "meal_type": "Snack"
-    },
-    "Sample Recipe 48": {
-        "ingredients": [
-            "ingredient48",
-            "ingredient49",
-            "ingredient50"
-        ],
-        "steps": [
-            "Step 48-1",
-            "Step 48-2",
-            "Step 48-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cuisine": "Indian",
-        "meal_type": "Breakfast"
-    },
-    "Sample Recipe 49": {
-        "ingredients": [
-            "ingredient49",
-            "ingredient50",
-            "ingredient51"
-        ],
-        "steps": [
-            "Step 49-1",
-            "Step 49-2",
-            "Step 49-3"
-        ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+28",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Sample Recipe 50": {
+    "Recipe 29": {
         "ingredients": [
-            "ingredient50",
-            "ingredient51",
-            "ingredient52"
+            "ingredient29_1",
+            "ingredient29_2",
+            "ingredient29_3"
         ],
         "steps": [
-            "Step 50-1",
-            "Step 50-2",
-            "Step 50-3"
+            "Step 1 for recipe 29",
+            "Step 2 for recipe 29",
+            "Step 3 for recipe 29"
         ],
-        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/food-1995075_960_720.jpg",
+        "image": "https://via.placeholder.com/300?text=Recipe+29",
         "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "cuisine": "Indian",
         "meal_type": "Dinner"
+    },
+    "Recipe 30": {
+        "ingredients": [
+            "ingredient30_1",
+            "ingredient30_2",
+            "ingredient30_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 30",
+            "Step 2 for recipe 30",
+            "Step 3 for recipe 30"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+30",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "International",
+        "meal_type": "Lunch"
+    },
+    "Recipe 31": {
+        "ingredients": [
+            "ingredient31_1",
+            "ingredient31_2",
+            "ingredient31_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 31",
+            "Step 2 for recipe 31",
+            "Step 3 for recipe 31"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+31",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "Indian",
+        "meal_type": "Dinner"
+    },
+    "Recipe 32": {
+        "ingredients": [
+            "ingredient32_1",
+            "ingredient32_2",
+            "ingredient32_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 32",
+            "Step 2 for recipe 32",
+            "Step 3 for recipe 32"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+32",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "International",
+        "meal_type": "Lunch"
+    },
+    "Recipe 33": {
+        "ingredients": [
+            "ingredient33_1",
+            "ingredient33_2",
+            "ingredient33_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 33",
+            "Step 2 for recipe 33",
+            "Step 3 for recipe 33"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+33",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "Indian",
+        "meal_type": "Dinner"
+    },
+    "Recipe 34": {
+        "ingredients": [
+            "ingredient34_1",
+            "ingredient34_2",
+            "ingredient34_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 34",
+            "Step 2 for recipe 34",
+            "Step 3 for recipe 34"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+34",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "International",
+        "meal_type": "Lunch"
+    },
+    "Recipe 35": {
+        "ingredients": [
+            "ingredient35_1",
+            "ingredient35_2",
+            "ingredient35_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 35",
+            "Step 2 for recipe 35",
+            "Step 3 for recipe 35"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+35",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "Indian",
+        "meal_type": "Dinner"
+    },
+    "Recipe 36": {
+        "ingredients": [
+            "ingredient36_1",
+            "ingredient36_2",
+            "ingredient36_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 36",
+            "Step 2 for recipe 36",
+            "Step 3 for recipe 36"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+36",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "International",
+        "meal_type": "Lunch"
+    },
+    "Recipe 37": {
+        "ingredients": [
+            "ingredient37_1",
+            "ingredient37_2",
+            "ingredient37_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 37",
+            "Step 2 for recipe 37",
+            "Step 3 for recipe 37"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+37",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "Indian",
+        "meal_type": "Dinner"
+    },
+    "Recipe 38": {
+        "ingredients": [
+            "ingredient38_1",
+            "ingredient38_2",
+            "ingredient38_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 38",
+            "Step 2 for recipe 38",
+            "Step 3 for recipe 38"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+38",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "International",
+        "meal_type": "Lunch"
+    },
+    "Recipe 39": {
+        "ingredients": [
+            "ingredient39_1",
+            "ingredient39_2",
+            "ingredient39_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 39",
+            "Step 2 for recipe 39",
+            "Step 3 for recipe 39"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+39",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "Indian",
+        "meal_type": "Dinner"
+    },
+    "Recipe 40": {
+        "ingredients": [
+            "ingredient40_1",
+            "ingredient40_2",
+            "ingredient40_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 40",
+            "Step 2 for recipe 40",
+            "Step 3 for recipe 40"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+40",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "International",
+        "meal_type": "Lunch"
+    },
+    "Recipe 41": {
+        "ingredients": [
+            "ingredient41_1",
+            "ingredient41_2",
+            "ingredient41_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 41",
+            "Step 2 for recipe 41",
+            "Step 3 for recipe 41"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+41",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "Indian",
+        "meal_type": "Dinner"
+    },
+    "Recipe 42": {
+        "ingredients": [
+            "ingredient42_1",
+            "ingredient42_2",
+            "ingredient42_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 42",
+            "Step 2 for recipe 42",
+            "Step 3 for recipe 42"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+42",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "International",
+        "meal_type": "Lunch"
+    },
+    "Recipe 43": {
+        "ingredients": [
+            "ingredient43_1",
+            "ingredient43_2",
+            "ingredient43_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 43",
+            "Step 2 for recipe 43",
+            "Step 3 for recipe 43"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+43",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "Indian",
+        "meal_type": "Dinner"
+    },
+    "Recipe 44": {
+        "ingredients": [
+            "ingredient44_1",
+            "ingredient44_2",
+            "ingredient44_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 44",
+            "Step 2 for recipe 44",
+            "Step 3 for recipe 44"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+44",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "International",
+        "meal_type": "Lunch"
+    },
+    "Recipe 45": {
+        "ingredients": [
+            "ingredient45_1",
+            "ingredient45_2",
+            "ingredient45_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 45",
+            "Step 2 for recipe 45",
+            "Step 3 for recipe 45"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+45",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "Indian",
+        "meal_type": "Dinner"
+    },
+    "Recipe 46": {
+        "ingredients": [
+            "ingredient46_1",
+            "ingredient46_2",
+            "ingredient46_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 46",
+            "Step 2 for recipe 46",
+            "Step 3 for recipe 46"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+46",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "International",
+        "meal_type": "Lunch"
+    },
+    "Recipe 47": {
+        "ingredients": [
+            "ingredient47_1",
+            "ingredient47_2",
+            "ingredient47_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 47",
+            "Step 2 for recipe 47",
+            "Step 3 for recipe 47"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+47",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "Indian",
+        "meal_type": "Dinner"
+    },
+    "Recipe 48": {
+        "ingredients": [
+            "ingredient48_1",
+            "ingredient48_2",
+            "ingredient48_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 48",
+            "Step 2 for recipe 48",
+            "Step 3 for recipe 48"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+48",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "International",
+        "meal_type": "Lunch"
+    },
+    "Recipe 49": {
+        "ingredients": [
+            "ingredient49_1",
+            "ingredient49_2",
+            "ingredient49_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 49",
+            "Step 2 for recipe 49",
+            "Step 3 for recipe 49"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+49",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "Indian",
+        "meal_type": "Dinner"
+    },
+    "Recipe 50": {
+        "ingredients": [
+            "ingredient50_1",
+            "ingredient50_2",
+            "ingredient50_3"
+        ],
+        "steps": [
+            "Step 1 for recipe 50",
+            "Step 2 for recipe 50",
+            "Step 3 for recipe 50"
+        ],
+        "image": "https://via.placeholder.com/300?text=Recipe+50",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cuisine": "International",
+        "meal_type": "Lunch"
     }
 }
