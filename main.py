@@ -1,64 +1,77 @@
 import streamlit as st
 import json
+import random
+import requests
 
-# Load recipe data
-with open("recipes_with_images.json", "r") as f:
-    recipes = json.load(f)
+# Load recipes data
+def load_recipes():
+    with open("recipes_with_filters.json", "r") as f:
+        return json.load(f)
 
-# Custom multicolor background CSS
-st.markdown(
-    """
+def filter_recipes(recipes, ingredients, cuisine_filter, meal_filter):
+    filtered = []
+    for name, data in recipes.items():
+        if cuisine_filter != "All" and data.get("cuisine") != cuisine_filter:
+            continue
+        if meal_filter != "All" and data.get("meal_type") != meal_filter:
+            continue
+        if all(ing.lower() in [i.lower() for i in data["ingredients"]] for ing in ingredients):
+            filtered.append((name, data))
+    return filtered
+
+def get_recipe_display(name, data):
+    st.subheader(name)
+    st.image(data["image"], use_column_width=True)
+    st.markdown(f"**Cuisine:** {data['cuisine']}  |  **Meal:** {data['meal_type']}")
+    st.markdown("**Ingredients:**")
+    st.write(", ".join(data["ingredients"]))
+    st.markdown("**Steps:**")
+    for step in data["steps"]:
+        st.write(f"- {step}")
+    if data.get("video"):
+        st.video(data["video"])
+    if st.button(f"❤️ Save {name}", key=name):
+        st.session_state.favorites.add(name)
+
+# UI Configuration
+st.set_page_config(page_title="Zero-Waste Kitchen AI", layout="wide")
+st.markdown("""
     <style>
-    body {
-        background: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
-        font-family: 'Segoe UI', sans-serif;
-    }
-    .stApp {
-        background: linear-gradient(to right, #fceabb, #f8b500, #fceabb);
-        background-size: 400% 400%;
-        animation: gradientBG 15s ease infinite;
-        padding: 2rem;
-    }
-    @keyframes gradientBG {
-        0% { background-position: 0% 50%; }
-        50% { background-position: 100% 50%; }
-        100% { background-position: 0% 50%; }
-    }
-    .recipe-card {
-        background-color: #ffffffcc;
-        padding: 1.5rem;
-        border-radius: 15px;
-        box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
-        margin-bottom: 2rem;
-    }
+        body {
+            background: linear-gradient(to right, #ffe6f0, #e6f7ff, #e6ffe6);
+        }
+        .stApp {
+            background-color: transparent;
+        }
     </style>
-    """,
-    unsafe_allow_html=True
-)
+""", unsafe_allow_html=True)
 
-st.title("🍽️ Zero-Waste Kitchen AI")
-st.write("Reduce food waste by discovering recipes based on your available ingredients.")
+st.title("🥗 Zero-Waste Kitchen AI")
+recipes = load_recipes()
 
-# Filter section
-st.subheader("🔍 Find recipes by ingredient")
-ingredient_query = st.text_input("Enter an ingredient (e.g., rice, paneer, pasta):").strip().lower()
+if "favorites" not in st.session_state:
+    st.session_state.favorites = set()
 
-# Recipe display
-found = False
-for name, data in recipes.items():
-    if ingredient_query in " ".join(data["ingredients"]).lower() or ingredient_query == "":
-        found = True
-        with st.container():
-            st.markdown(f"### 🍛 {name}")
-            st.image(data["image"], use_column_width=True)
-            st.markdown("**📝 Ingredients:**")
-            st.markdown(", ".join(data["ingredients"]))
-            st.markdown("**👩‍🍳 Steps:**")
-            for step in data["steps"]:
-                st.markdown(f"- {step}")
-            st.markdown("**🎥 Watch Tutorial:**")
-            st.video(data["video"])
-            st.markdown("---")
+# Input Section
+with st.sidebar:
+    st.header("Filter Recipes")
+    ingredient_input = st.text_input("Enter ingredients (comma separated):")
+    cuisine_filter = st.selectbox("Cuisine Type", ["All"] + sorted(set(r["cuisine"] for r in recipes.values())))
+    meal_filter = st.selectbox("Meal Type", ["All"] + sorted(set(r["meal_type"] for r in recipes.values())))
+    search = st.button("Search Recipes")
+    st.markdown("---")
+    if st.session_state.favorites:
+        st.write("**❤️ Saved Recipes:**")
+        for fav in st.session_state.favorites:
+            st.write(f"- {fav}")
 
-if not found and ingredient_query:
-    st.warning("No matching recipes found. Try a different ingredient.")
+if search:
+    ingredients = [i.strip() for i in ingredient_input.split(",") if i.strip()]
+    matches = filter_recipes(recipes, ingredients, cuisine_filter, meal_filter)
+    if matches:
+        for name, data in matches:
+            get_recipe_display(name, data)
+    else:
+        st.warning("No matching recipes found. Try different filters or ingredients.")
+else:
+    st.info("Enter ingredients and click 'Search Recipes' to begin.")
