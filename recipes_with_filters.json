@@ -70,51 +70,67 @@
         "cuisine": "Indian",
         "meal_type": "Lunch"
     },
-    "Recipe 4": {
+    "Rice Cutlet": {
         "ingredients": [
-            "ingredient4_1",
-            "ingredient4_2",
-            "ingredient4_3"
+            "2 cups cooked rice",
+            "1 small potato peeled and cut in small pieces.",
+            "1 cup mixed vegetables cut into very small pieces (green beans, bell pepper and carrot).",
+            "2 teaspoon ginger chopped.",
+            "1/2 teaspoon red chili powder, adjust to taste.",
+            "1-1/2 teaspoons salt.",
+            "1 teaspoon cumin seeds.",
+            "1 tablespoon corn starch.",
+            "Oil to fry."
         ],
         "steps": [
-            "Step 1 for recipe 4",
-            "Step 2 for recipe 4",
-            "Step 3 for recipe 4"
+            "Pat dry all the vegetables.",
+            "Put all the ingredients in food processer and mix for about half a minutes.",
+            "Mix should not become like paste and you should be able to see all the vegetables.",
+            "Remove from the food processer, rice mix will be textured of chunky soft dough.",
+            "Divide the mix into 16 pieces and roll them into flat patties about 1/2 inch thick.",
+            "Heat the oil in a frying pan on medium high heat. Drop the cutlets slowly into it, taking care not to overlap them.",
+            "Fry the cutlets until they are golden brown, turning occasionally.",
+            "This should take about 5 to 6 minutes. Take them out over a paper towel.",
+            "For best taste serve them hot. Cutlets taste great with cilantro chutney."
         ],
-        "image": "https://via.placeholder.com/300?text=Recipe+4",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "image": "https://in.pinterest.com/pin/708965166334127850/",
+        "video": "https://www.youtube.com/watch?v=T6kOTmsmVCg&embeds_referring_euri=https%3A%2F%2Fmanjulaskitchen.com%2F&source_ve_path=MjM4NTE",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
-    "Recipe 5": {
+    "Crispy Potato Skin Wedges": {
         "ingredients": [
-            "ingredient5_1",
-            "ingredient5_2",
-            "ingredient5_3"
+            "Medium potatoes",
+            "Olive oil",
+            "paprika",
+            "black pepper",
+            "salt"
         ],
         "steps": [
-            "Step 1 for recipe 5",
-            "Step 2 for recipe 5",
-            "Step 3 for recipe 5"
+            "Boil potatoes in salted water for 40 min and then cool completely for 30 mint in the refrigerator",
+            "In a mixing bowl combine olive oil paprika, salt and black pepper. cut cooled potatoes into quarters and lightly toss in the mixture of oil and spices",
+            "preheat the air fryer to 200 degree celcius",
+            "Add the wedges to the cooking pan and place skin side down being careful not to over crowd",
+            "cook the wedges for 25-30 min or until golden brown."
         ],
-        "image": "https://via.placeholder.com/300?text=Recipe+5",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "image": "https://in.pinterest.com/pin/123497214777946447/",
+        "video": "https://www.youtube.com/watch?v=MXFpWRzhgk0",
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Recipe 6": {
+    "Roasted Winter Vegetables": {
         "ingredients": [
-            "ingredient6_1",
-            "ingredient6_2",
-            "ingredient6_3"
+            "leftover vegetables",
+            "pepper",
+            "salt"
         ],
         "steps": [
-            "Step 1 for recipe 6",
-            "Step 2 for recipe 6",
-            "Step 3 for recipe 6"
+            "put the vegetables into the cooking pan and slide the cooking pan into the air fryer",
+            "Put some saly Ajwain powder and olive oil.Season to taste",
+            "Roast them until light brown Stir the vegetables once while roasting."
         ],
-        "image": "https://via.placeholder.com/300?text=Recipe+6",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "image": "https://in.pinterest.com/pin/143974519332144021/",
+        "video": "https://www.youtube.com/watch?v=1P-9qr1sAqw",
         "cuisine": "International",
         "meal_type": "Lunch"
     },
@@ -134,15 +150,15 @@
         "cuisine": "Indian",
         "meal_type": "Dinner"
     },
-    "Recipe 8": {
+    "Spicy Grilled Potatoes": {
         "ingredients": [
-            "ingredient8_1",
-            "ingredient8_2",
-            "ingredient8_3"
+            "Medium potatoes, Salt, Chaat masala",
+            "Red Chilli powder, cumin powder, finely green chpped green chillies",
+            "Grated Processed cheese. Melted Butter"
         ],
         "steps": [
-            "Step 1 for recipe 8",
-            "Step 2 for recipe 8",
+            "take leftover potatoes and sprinkle some salt, chaat masala, red chilli powder, cumin powder green chillies and some grated cheese , melted butter",
+            "Step 2",
             "Step 3 for recipe 8"
         ],
         "image": "https://via.placeholder.com/300?text=Recipe+8",
